@@ -1,6 +1,6 @@
 # Laboratorio #2, Fundamentos de Programación - V2
 
-'''Desarrollar un programa que solicite tres números enteros desde teclado al usuario, luego el programa deberá determinar e indicar a 
+'''2. Desarrollar un programa que solicite tres números enteros desde teclado al usuario, luego el programa deberá determinar e indicar a 
 través de un mensaje en pantalla, cuál de los tres es el más grande sin importar el orden que se ingrese los números, así mismos el número 
 más pequeño y el número de en medio.
 Requerimientos
