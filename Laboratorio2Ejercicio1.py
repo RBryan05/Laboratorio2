@@ -15,9 +15,9 @@ print("\033[1m"+"\nBienvenid@ al desarrollo del codigo perteneciente al laborato
 inf = int(input("Ingrse el numero de infracciones que registro durante el mes. -> "))
 
 # Promedio matutino
-matu = inf*0.2
+matutino = inf*0.2
 
-print(f"\nEl promedio diario matutino de infracciones es de: {matu}")
+print(f"\nEl promedio diario matutino de infracciones es de: {matutino}")
 
 # Promedio vespertino.
 vesp = inf*0.35
